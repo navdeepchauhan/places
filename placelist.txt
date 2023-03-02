@@ -3,4 +3,8 @@ rajpura
 chandigarh
 punjab
 haryana
+dehli
+patiala
+champaran
+bihar
 
